@@ -1,0 +1,11 @@
+/build/
+/dist/
+/installer/
+/nbproject/private/
+/web/
+/lanuch4jconfig_wrap.xml
+/Launch4j.lnk
+/launch4j.log
+/mech_src.zip
+/mechanika.exe
+
